@@ -1,0 +1,257 @@
+﻿THIS INSTRUMENT AND ANY SECURITIES ISSUABLE PURSUANT HERETO HAVE NOT BEEN REGISTERED UNDER
+THE SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”), OR UNDER THE SECURITIES LAWS OF
+CERTAIN STATES. THESE SECURITIES MAY NOT BE OFFERED, SOLD OR OTHERWISE TRANSFERRED, PLEDGED OR
+HYPOTHECATED EXCEPT AS PERMITTED IN THIS SAFE AND UNDER THE SECURITIES ACT AND APPLICABLE STATE
+SECURITIES LAWS PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT OR AN EXEMPTION THEREFROM.
+FuzeHub, Inc.
+Simple Agreement for Future Equity (Safe)
+THIS CERTIFIES THAT in exchange for the payment by FuzeHub, Inc. (the “Investor”) of $50,000 (the
+“Purchase Amount”) on or about ____Jan 24, 2019, _______________, an C __organized under the
+laws of the State of __Delaware________ (the “Company”), issues to the Investor the right to certain shares (collectively, “shares”)
+of the Company’s Capital Stock (as defined herein), subject to the terms described below.
+The “Post-Money Valuation Cap” is $4,000,000.
+The “Discount Rate” is 85%.
+See Section 2 for certain additional defined terms.
+1. Events
+(a) Equity Financing. If there is an Equity Financing before the termination of this Safe, on the initial closing
+of such Equity Financing, this Safe will automatically convert into the number of shares of Safe Preferred Stock equal to
+the Purchase Amount divided by the Conversion Price.
+In connection with the automatic conversion of this Safe into shares of Safe Preferred Stock, the Investor will
+execute and deliver to the Company all of the transaction documents related to the Equity Financing; provided, that such
+documents are the same documents to be entered into with the purchasers of Standard Preferred Stock, with appropriate
+variations for the Safe Preferred Stock if applicable, and provided further, that such documents have customary exceptions
+to any drag-along applicable to the Investor, including, without limitation, limited representations and warranties and limited
+liability and indemnification obligations on the part of the Investor.
+(b) Liquidity Event. If there is a Liquidity Event before the termination of this Safe, the holder of this Safe
+will automatically be entitled to receive a portion of Proceeds immediately prior to, or concurrent with, the consummation
+of such Liquidity Event, equal to the greater of (i) the Purchase Amount (the “Cash-Out Amount”) or (ii) the amount
+payable on the number of shares of Common Stock equal to the Purchase Amount divided by the Liquidity Price (the
+“Conversion Amount”). If any of the Company’s securityholders are given a choice as to the form and amount of Proceeds
+to be received in a Liquidity Event, the Investor will be given the same choice.
+Notwithstanding the foregoing, in connection with a Change of Control intended to qualify as a tax-free
+reorganization, the Company may reduce the cash portion of Proceeds payable to the Investor by the amount determined by
+its board of directors in good faith for such Change of Control to qualify as a tax-free reorganization for U.S. federal income
+tax purposes, provided that such reduction (A) does not reduce the total Proceeds payable to such Investor and (B) is applied
+in the same manner and on a pro rata basis to all securityholders who have equal priority to the Investor under Section 1(d).
+(c) Dissolution Event. If there is a Dissolution Event before the termination of this Safe, the Investor will
+automatically be entitled to receive a portion of Proceeds equal to the Cash-Out Amount, due and payable to the Investor
+immediately prior to the consummation of the Dissolution Event.2
+(d) Liquidation Priority. In a Liquidity Event or Dissolution Event, this Safe is intended to operate like
+standard non-participating Preferred Stock. The Investor’s right to receive its Cash-Out Amount is:
+(i) Junior to payment of outstanding indebtedness and creditor claims, including contractual claims
+for payment and convertible promissory notes (to the extent such convertible promissory notes are not actually or notionally
+converted into Capital Stock);
+(ii) On par with payments for other Safes and/or Preferred Stock, and if the applicable Proceeds are
+insufficient to permit full payments to the Investor and such other Safes and/or Preferred Stock, the applicable Proceeds
+will be distributed pro rata to the Investor and such other Safes and/or Preferred Stock in proportion to the full payments
+that would otherwise be due; and
+(iii) Senior to payments for Common Stock.
+The Investor’s right to receive its Conversion Amount is (A) on par with payments for Common Stock and other
+Safes and/or Preferred Stock who are also receiving Conversion Amounts or Proceeds on a similar as-converted to Common
+Stock basis, and (B) junior to payments described in clauses (i) and (ii) above (in the latter case, to the extent such payments
+are Cash-Out Amounts or similar liquidation preferences).
+(e) Termination. This Safe will automatically terminate (without relieving the Company of any obligations
+arising from a prior breach of or non-compliance with this Safe) immediately following the earliest to occur of: (i) the
+issuance of Capital Stock to the Investor pursuant to the automatic conversion of this Safe under Section 1(a); or (ii) the
+payment, or setting aside for payment, of amounts due the Investor pursuant to Section 1(b) or Section 1(c).
+2. Definitions
+“Capital Stock” means the capital stock or membership units of the Company, including, without limitation,
+the “Standard Preferred Stock.” It is understood and agreed that any references in this document to “stock” or “shares”
+shall also apply to membership interests or units if the Company is a limited liability company.
+“Change of Control” means (i) a transaction or series of related transactions in which any “person” or “group”
+(within the meaning of Section 13(d) and 14(d) of the Securities Exchange Act of 1934, as amended), becomes the
+“beneficial owner” (as defined in Rule 13d-3 under the Securities Exchange Act of 1934, as amended), directly or indirectly,
+of more than 50% of the outstanding voting securities of the Company having the right to vote for the election of members
+of the Company’s board of directors, (ii) any reorganization, merger or consolidation of the Company, other than a
+transaction or series of related transactions in which the holders of the voting securities of the Company outstanding
+immediately prior to such transaction or series of related transactions retain, immediately after such transaction or series of
+related transactions, at least a majority of the total voting power represented by the outstanding voting securities of the
+Company or such other surviving or resulting entity or (iii) a sale, lease or other disposition of all or substantially all of the
+assets of the Company.
+“Company Capitalization” is calculated as of immediately prior to the Equity Financing and (without double-
+counting):
+• Includes all shares of Capital Stock issued and outstanding;
+• Includes all Converting Securities;
+• Includes all (i) issued and outstanding Options and (ii) Promised Options;
+• Includes the Unissued Option Pool; and3
+• Excludes, notwithstanding the foregoing, any increases to the Unissued Option Pool (except to the extent
+necessary to cover Promised Options that exceed the Unissued Option Pool) in connection with the Equity
+Financing.
+“Conversion Price” means either: (1) the Safe Price or (2) the Discount Price, whichever calculation results in
+a greater number of shares of Safe Preferred Stock.
+“Converting Securities” includes this Safe and other convertible securities issued by the Company, including
+but not limited to: (i) other Safes; (ii) convertible promissory notes and other convertible debt instruments; and (iii)
+convertible securities that have the right to convert into shares of Capital Stock.
+“Discount Price” means the price per share of the Standard Preferred Stock sold in the Equity Financing
+multiplied by the Discount Rate.
+“Dissolution Event” means (i) a voluntary termination of operations, (ii) a general assignment for the benefit
+of the Company’s creditors or (iii) any other liquidation, dissolution or winding up of the Company (excluding a Liquidity
+Event), whether voluntary or involuntary.
+“Dividend Amount” means, with respect to any date on which the Company pays a dividend on any of its
+outstanding Capital Stock, the amount of such dividend that is paid per share of Capital Stock multiplied by (x) the Purchase
+Amount divided by (y) the Liquidity Price (treating the dividend date as a Liquidity Event solely for purposes of calculating
+such Liquidity Price).
+“Equity Financing” means a bona fide transaction or series of transactions with the principal purpose of raising
+capital and resulting in an investment of at least Five Hundred Thousand ($500,000) Dollars, pursuant to which the Company
+issues and sells Standard Preferred Stock at a fixed valuation.
+“Initial Public Offering” means the closing of the Company’s first firm commitment underwritten initial public
+offering of Common Stock on a nationally recognized exchange in the United States, pursuant to a registration statement
+filed under the Securities Act.
+“Liquidity Capitalization” is calculated as of immediately prior to the Liquidity Event, and (without double-
+counting):
+• Includes all shares of Capital Stock issued and outstanding;
+• Includes all (i) issued and outstanding Options and (ii) to the extent receiving Proceeds, Promised Options;
+• Includes all Converting Securities, other than any Safes and other convertible securities (including without
+limitation shares of Preferred Stock) where the holders of such securities are receiving Cash-Out Amounts
+or similar liquidation preference payments in lieu of Conversion Amounts or similar “as-converted”
+payments; and
+• Excludes the Unissued Option Pool.
+“Liquidity Event” means a Change of Control or an Initial Public Offering.
+“Liquidity Price” means the price per share equal to the Post-Money Valuation Cap divided by the Liquidity
+Capitalization.
+“Options” includes options, restricted stock awards or purchases, RSUs, SARs, warrants or similar securities,
+vested or unvested.4
+“Proceeds” means cash and other assets (including without limitation stock consideration) that are proceeds
+from the Liquidity Event or the Dissolution Event, as applicable, and legally available for distribution.
+“Promised Options” means promised but ungranted Options that are the greater of those (i) promised pursuant
+to agreements or understandings made prior to the execution of, or in connection with, the term sheet for the Equity
+Financing (or the initial closing of the Equity Financing, if there is no term sheet), or (ii) treated as outstanding Options in
+the calculation of the Standard Preferred Stock’s price per share.
+“Safe” means an instrument containing a future right to shares of Capital Stock, similar in form and content to
+this instrument, purchased by investors for the purpose of funding the Company’s business operations. References to “this
+Safe” mean this specific instrument.
+“Safe Preferred Stock” means the shares of the series of Standard Preferred Stock issued to the Investor in an
+Equity Financing, having the identical rights, privileges, preferences and restrictions as the shares of Standard Preferred
+Stock, other than with respect to: (i) the per share liquidation preference and the initial conversion price for purposes of
+price-based anti-dilution protection, which will equal the Conversion Price; and (ii) the basis for any dividend rights, which
+will be based on the Conversion Price.
+“Safe Price” means the price per share equal to the Post-Money Valuation Cap divided by the Company
+Capitalization.
+“Standard Preferred Stock” means the shares of the series of preferred stock issued to the investors investing
+new money in the Company in connection with the initial closing of the Equity Financing and containing preferred terns
+standard to similar sized venture capital transactions.
+“Unissued Option Pool” means all shares of Capital Stock that are reserved, available for future grant and not
+subject to any outstanding Options or Promised Options (but in the case of a Liquidity Event, only to the extent Proceeds
+are payable on such Promised Options) under any equity incentive or similar Company plan.
+3. Company Representations and Warranties
+The Company hereby represents and warrants to the Holder as follows:
+(a) The Company is a ___________ duly organized, validly existing and in good standing under the laws of
+the state of ____________, and has the power and authority to own, lease and operate its properties and carry on its business
+as now conducted;
+(b) The execution, delivery and performance by the Company of this Safe is within the power of the Company
+and has been duly authorized by all necessary actions on the part of the Company (subject to section 3(d)). This Safe
+constitutes a legal, valid and binding obligation of the Company, enforceable against the Company in accordance with its
+terms, except as limited by bankruptcy, insolvency or other laws of general application relating to or affecting the
+enforcement of creditors’ rights generally and general principles of equity. To its knowledge, the Company is not in
+violation of (i) its current certificate of incorporation or bylaws, (ii) any material statute, rule or regulation applicable to the
+Company or (iii) any material debt or contract to which the Company is a party or by which it is bound, where, in each case,
+such violation or default, individually, or together with all such violations or defaults, could reasonably be expected to have
+a material adverse effect on the Company;5
+(c) The performance and consummation of the transactions contemplated by this Safe do not and will not:
+(i) violate any material judgment, statute, rule or regulation applicable to the Company; (ii) result in the acceleration of any
+material debt or contract to which the Company is a party or by which it is bound; or (iii) result in the creation or imposition
+of any lien on any property, asset or revenue of the Company or the suspension, forfeiture, or nonrenewal of any material
+permit, license or authorization applicable to the Company, its business or operations;
+(d) No consents or approvals are required in connection with the performance of this Safe, other than: (i) the
+Company’s corporate approvals; (ii) any qualifications or filings under applicable securities laws; and (iii) necessary
+corporate approvals for the authorization of Capital Stock issuable pursuant to Section 1;
+(e) To its knowledge, the Company owns or possesses (or can obtain on commercially reasonable terms)
+sufficient legal rights to all patents, trademarks, service marks, trade names, copyrights, trade secrets, licenses, information,
+processes and other intellectual property rights necessary for its business as now conducted and as currently proposed to be
+conducted, without any conflict with, or infringement of the rights of, others;
+(f) All shares of Capital Stock which may be issued upon the conversion of this Safe, shall, upon issuance, be
+duly authorized, validly issued, fully paid and nonassessable, and free of any liens and encumbrances except for restrictions
+on transfer provided for herein or under applicable federal and state securities laws.
+(g) The Company’s capitalization table, attached as Schedule 1 hereto, is true and complete as of the [Date of
+Safe].
+4. Company Covenants.
+Company understands and agrees that:
+(a) The Company shall provide Investor with not less than ten (10) days prior written notice of, including a
+description of the material facts surrounding, any of the following events: (i) declaration of any dividend or distribution
+upon its Capital Stock, whether in cash, property, stock, or other securities and whether or not a regular cash dividend; (ii)
+offering for subscription pro rata to the securityholders of any class or series of its Capital Stock any additional shares of
+stock of any class or series or other rights; (iii) effecting any reclassification or recapitalization of Capital Stock; or (iv) the
+merger or consolidation with or into any other corporation, or sale, lease, license, or conveyance of all or substantially all
+of its assets, or liquidation, dissolution or winding up.
+(b) So long as the Investor holds this Safe and/or any of the shares of Capital Stock, the Company shall deliver
+to the Investor (i) copies of all notices to the securityholders of the Capital Stock of the Company, delivered at the same
+time and in the same manner as is delivered to the securityholders, and (ii) upon Investor’s request, the Company’s most
+recently prepared annual and/or quarterly financial statements.
+(c) The Company shall not issue any fractional shares of Capital Stock issuable upon conversion of this Safe,
+and the number of shares to be issued shall be rounded down to the nearest whole share. If a fractional share interest arises
+upon any conversion of this Safe, the Company shall eliminate such fractional share interest by paying Investor the amount
+computed by multiplying the fractional interest by the fair market value of such full share.
+5. Investor Representations6
+(a) The Investor has full legal capacity, power and authority to execute and deliver this Safe and to perform its
+obligations hereunder. This Safe constitutes a valid and binding obligation of the Investor, enforceable in accordance with
+its terms, except as limited by bankruptcy, insolvency or other laws of general application relating to or affecting the
+enforcement of creditors’ rights generally and general principles of equity.
+(b) The Investor has been advised that this Safe and the underlying securities have not been registered under
+the Securities Act, or any state securities laws and, therefore, cannot be resold unless they are registered under the Securities
+Act and applicable state securities laws or unless an exemption from such registration requirements is available. The Investor
+is purchasing this Safe and the securities to be acquired by the Investor hereunder for its own account for investment, not
+as a nominee or agent, and not with a view to, or for resale in connection with, the distribution thereof, and the Investor has
+no present intention of selling, granting any participation in, or otherwise distributing the same. The Investor has such
+knowledge and experience in financial and business matters that the Investor is capable of evaluating the merits and risks
+of such investment, is able to incur a complete loss of such investment without impairing the Investor’s financial condition
+and is able to bear the economic risk of such investment for an indefinite period of time.
+6. Miscellaneous
+(a) Any provision of this Safe may be amended, waived or modified by written consent of the Company and
+the Investor.
+(b) All notices and other communications from the Company to the Investor, or vice versa, shall be deemed
+delivered and effective when given personally or mailed by first-class registered or certified mail, postage prepaid, at such
+address as may have been furnished to the Company or the Investor, as the case may be, in writing by the Company or such
+Investor from time to time. All notices to the Investor shall be addressed as follows:
+FuzeHub, Inc.
+Attn: Elena Garuc, CEO
+25 Monroe Street, Suite 201
+Albany, NY 12210
+with a copy to:
+Richard E. Honen, Esq.
+Phillips Lytle LLP
+30 South Pearl Street
+Albany, NY 12207
+(c) The Investor is not entitled, as a holder of this Safe, to vote or be deemed a holder of Capital Stock for any
+purpose other than tax purposes, nor will anything in this Safe be construed to confer on the Investor, as such, any rights of
+a Company stockholder or rights to vote for the election of directors or on any matter submitted to Company stockholders,
+or to give or withhold consent to any corporate action or to receive notice of meetings, until shares have been issued on the
+terms described in Section 1. However, if the Company pays a dividend on outstanding shares of Common Stock (that is
+not payable in shares of Common Stock) while this Safe is outstanding, the Company will pay the Dividend Amount to the
+Investor at the same time.7
+(d) Neither this Safe nor the rights in this Safe are transferable or assignable, by operation of law or otherwise,
+by either party without the prior written consent of the other, and may not be transferred or assigned in whole or in part
+without compliance with applicable federal and state securities laws by the transferor and the transferee.
+(e) This Safe and the shares of Capital Stock (and the securities issuable, directly or indirectly, upon conversion
+of the shares, if any) shall be imprinted with a legend in substantially the following form:
+THE SHARES REPRESENTED BY THIS CERTIFICATE HAVE NOT BEEN REGISTERED
+UNDER THE SECURITIES ACT OF 1933 AS AMENDED. THEY MAY NOT BE SOLD,
+OFFERED FOR SALE, PLEDGED OR HYPOTHECATED IN THE ABSENCE OF AN
+EFFECTIVE REGISTRATION STATEMENT AS TO THE SECURITIES UNDER SAID ACT
+OR AN OPINION OF COUNSEL SATISFACTORY TO THE COMPANY THAT SUCH
+REGISTRATION IS NOT REQUIRED.
+(f) In the event any one or more of the provisions of this Safe is for any reason held to be invalid, illegal or
+unenforceable, in whole or in part or in any respect, or in the event that any one or more of the provisions of this Safe operate
+or would prospectively operate to invalidate this Safe, then and in any such event, such provision(s) only will be deemed
+null and void and will not affect any other provision of this Safe and the remaining provisions of this Safe will remain
+operative and in full force and effect and will not be affected, prejudiced, or disturbed thereby.
+(g) All rights and obligations hereunder will be governed by the laws of the State of New York, without regard
+to principles of conflicts of law.
+(h) On receipt of evidence reasonably satisfactory to the Company of the loss, theft, destruction or mutilation
+of this Safe and, in the case of mutilation, on surrender and cancellation of this Safe, the Company shall execute and deliver,
+in lieu of this Safe, a new Safe of like tenor.
+(i) This Safe may be signed in any number of counterparts and via electronic mail, each of which will be an
+original, but all of which together will constitute one and the same instrument.
+[The remainder of this page has been intentionally left blank][Signature Page to SAFE]
+IN WITNESS WHEREOF, the undersigned have caused this Safe to be duly executed and delivered as of
+the date first written above.
+[COMPANY]
+By:
+[name]
+[title]
+Address:
+INVESTOR:
+By:
+Name:
+Title:
+Doc #360511.2Schedule 1
+[Company] Capitalization Table

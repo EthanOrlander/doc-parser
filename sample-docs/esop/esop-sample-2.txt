@@ -1,0 +1,151 @@
+﻿EX-4.2 3 s8_ex4z2.htm EXHIBIT 4.02 SAMPLE STOCK OPTION AGREEMENT
+Exhibit 4.02
+
+WORDLOGIC COPORATION.
+2012 EQUITY INCENTIVE PLAN
+STOCK OPTION AGREEMENT
+
+            Unless otherwise defined herein, capitalized terms shall have the meaning set forth in the WordLogic Corporation 2012 Equity Incentive Plan (the "Plan").
+
+1.    NOTICE OF STOCK OPTION GRANT
+
+      You have been granted an option to purchase Common Stock, subject to the terms and conditions of the Plan and this Option Agreement, as follows:
+       
+Name of Optionee:Mark GoldbergTotal Number of Shares Granted: 100000Type of Option:o Nonstatutory Stock Option
+☑ Incentive Stock OptionExercise Price per Share:$ 0.0001Grant Date: June 1, 2020Vesting Commencement Date: Vesting Schedule:This option may be exercised, in whole or in part, in accordance with the following schedule:
+25% of the Shares subject to the option shall vest 12 months after the Vesting Commencement Date, and 1/48th of the Shares subject to the option shall vest each month thereafter, subject to the optionee continuing to be a Service Provider on such dates.Termination Period:This option may be exercised for three months after the optionee's Termination Date, except that if the Optionee's Termination of Service is for Cause, this option shall terminate on the Termination Date. Upon the death or Disability of the optionee, this option may be exercised for 12 months after the optionee's Termination Date. Special termination periods are set forth in Sections 2.3(B), 2.9, and 2.10 below. In no event may this option be exercised later than the Term of Award/Expiration Date provided below.Term of Award/Expiration Date: June 1, 2030 
+2.    AGREEMENT
+
+      2.1    Grant of Option. The Administrator hereby grants to the optionee named in the Notice of Stock Option Grant attached as Part I of this Option Agreement (the "Optionee") an option (the "Option") to purchase the number of Shares, as set forth in the Notice of Stock Option Grant, at the exercise price per Share set forth in the Notice of Stock Option Grant (the "Exercise Price"), subject to the terms and conditions of this Option Agreement and the Plan. This Option is intended to be a Nonstatutory Stock Option ("NSO") or an Incentive Stock Option ("ISO"), as provided in the Notice of Stock Option Grant.
+
+      2.2    Exercise of Option.
+
+            (A)    Vesting/Right to Exercise. This Option is exercisable during its term in accordance with the Vesting Schedule set forth in Section 1 and the applicable provisions of this Option Agreement and the Plan. In no event will this Option become exercisable for additional Shares after a Termination of Service for any reason. Notwithstanding the foregoing, this Option becomes exercisable in full if the Company is subject to a Change in Control before the Optionee's Termination of Service, and within 12 months after the Change in Control the Optionee is subject to a Termination of Service resulting from: (i) the Optionee's involuntary discharge by the Company (or the Affiliate employing him or her) for reasons other than Cause (defined below), death or Disability; or (ii) the Optionee's resignation for Good Reason (defined below). This Option may also become exercisable in accordance with Section 2.11 below.
+
+
+
+
+                  The term "Cause" shall mean (1) the Optionee's theft, dishonesty, or falsification of any documents or records of the Company or any Affiliate; (2) the Optionee's improper use or disclosure of confidential or proprietary information of the Company or any Affiliate that results or will result in material harm to the Company or any Affiliate; (3) any action by the Optionee which has a detrimental effect on the reputation or business of the Company or any Affiliate; (4) the Optionee's failure or inability to perform any reasonable assigned duties after written notice from the Company or an Affiliate, and a reasonable opportunity to cure, such failure or inability; (5) any material breach by the Optionee of any employment or service agreement between the Optionee and the Company or an Affiliate, which breach is not cured pursuant to the terms of such agreement; (6) the Optionee's conviction (including any plea of guilty or nolo contendere) of any criminal act which impairs the Optionee's ability to perform his or her duties with the Company or an Affiliate; or (7) violation of a material Company policy. The term "Good Reason" shall mean, as determined by the Administrator, (A) a material adverse change in the Optionee's title, stature, authority, or responsibilities with the Company (or the Affiliate employing him or her); (B) a material reduction in the Optionee's base salary or annual bonus opportunity; or (C) receipt of notice that the Optionee's principal workplace will be relocated by more than 50 miles.
+
+            (B)    Method of Exercise. This Option is exercisable by delivering to the Administrator a fully executed "Exercise Notice" or by any other method approved by the Administrator. The Exercise Notice shall provide that the Optionee is electing to exercise the Option, the number of Shares in respect of which the Option is being exercised (the "Exercised Shares"), and such other representations and agreements as may be required by the Administrator. Payment of the full aggregate Exercise Price as to all Exercised Shares must accompany the Exercise Notice. This Option shall be deemed exercised upon receipt by the Administrator of such fully executed Exercise Notice accompanied by such aggregate Exercise Price. The Optionee is responsible for filing any reports of remittance or other foreign exchange filings required in order to pay the Exercise Price.
+
+      2.3    Limitation on Exercise.
+
+            (A)    The grant of this Option and the issuance of Shares upon exercise of this Option are subject to compliance with all Applicable Laws. This Option may not be exercised if the issuance of Shares upon exercise would constitute a violation of any Applicable Laws. In addition, this Option may not be exercised unless (i) a registration statement under the Securities Act of 1933, as amended (the "Securities Act") is in effect at the time of exercise of this Option with respect to the Shares; or (ii) in the opinion of legal counsel to the Company, the Shares issuable upon exercise of this Option may be issued in accordance with the terms of an applicable exemption from the registration requirements of the Securities Act. The Optionee is cautioned that unless the foregoing conditions are satisfied, the Optionee may not be able to exercise the Option when desired even though the Option is vested. As a further condition to the exercise of this Option, the Company may require the Optionee to satisfy any qualifications that may be necessary or appropriate, to evidence compliance with any applicable law or regulation and to make any representation or warranty with respect thereto as may be requested by the Company. Any Shares that are issued will be "restricted securities" as that term is defined in Rule 144 under the Securities Act, and will bear an appropriate restrictive legend, unless they are registered under the Securities Act. The Company is under no obligation to register the Shares issuable upon exercise of this Option.
+
+            (B)    Special Termination Period. If exercise of the Option on the last day of the termination period set forth in Section 1 is prevented by operation of paragraph (A) of this Section 2.3, then this Option shall remain exercisable until 14 days after the first date that paragraph (A) no longer operates to prevent exercise of the Option.
+
+      2.4    Method of Payment. Payment of the aggregate Exercise Price shall be by any of the following methods; provided, however, the payment shall be in strict compliance with all procedures established by the Administrator:
+
+            (A)    cash;
+
+            (B)    check or wire transfer;
+
+            (C)    subject to any conditions or limitations established by the Administrator, other Shares that have a Fair Market Value on the date of surrender or attestation equal to the aggregate Exercise Price;
+
+            (D)    consideration received by the Company under a broker-assisted sale and remittance program acceptable to the Administrator (Officers and Directors shall not be permitted to use this procedure if this procedure would violate Section 402 of the Sarbanes-Oxley Act of 2002, as amended);
+
+
+
+            (E)    subject to any conditions or limitations established by the Administrator, retention by the Company of so many of the Shares that would otherwise have been delivered upon exercise of the Option as have a Fair Market Value on the exercise date equal to the aggregate exercise price of all Shares as to which the Option is being exercised, provided that the Option is surrendered and cancelled as to such Shares; or
+
+            (F)    any combination of the foregoing methods of payment.
+
+      2.5    Leave of Absence. The Optionee shall not incur a Termination of Service when the Optionee goes on a bona fide leave of absence, if the leave was approved by the Company (or Affiliate employing him or her) in writing and if continued crediting of service is required by the terms of the leave or by applicable law. The Optionee shall incur a Termination of Service when the approved leave ends, however, unless the Optionee immediately returns to active work.
+
+            For purposes of ISOs, no leave of absence may exceed three months, unless the right to reemployment upon expiration of such leave is provided by statute or contract. If the right to reemployment is not so provided by statute or contract, the Optionee will be deemed to have incurred a Termination of Service on the first day immediately following such three-month period of leave for ISO purposes and this Option shall cease to be treated as an ISO and shall terminate upon the expiration of the three-month period that begins the date the employment relationship is deemed terminated.
+
+      2.6    Non-Transferability of Option. This Option may not be transferred in any manner other than by will or by the laws of descent and distribution, and may be exercised during the lifetime of the Optionee only by the Optionee. The terms of this Option Agreement and the Plan shall be binding upon the executors, administrators, heirs, successors, and assigns of the Optionee. This Option may not be assigned, pledged, or hypothecated by the Optionee whether by operation of law or otherwise, and is not subject to execution, attachment, or similar process. Notwithstanding the foregoing, if this Option is designated as a Nonstatutory Stock Option, the Administrator may, in its sole discretion, allow the Optionee to transfer this Option as a gift to one or more family members. For purposes of this Option Agreement, "family member" means a child, stepchild, grandchild, parent, stepparent, grandparent, spouse, former spouse, sibling, niece, nephew, mother-in-law, father-in-law, son-in-law, daughter-in-law, brother-in-law, or sister-in-law (including adoptive relationships), any individual sharing the Optionee's household (other than a tenant or employee), a trust in which one or more of these individuals have more than 50% of the beneficial interest, a foundation in which the Optionee or one or more of these persons control the management of assets, and any entity in which the Optionee or one or more of these persons own more than 50% of the voting interest. Notwithstanding the foregoing, during any California Qualification Period, this Option may not be transferred in any manner other than by will, by the laws of descent and distribution, or, if it is designated as a Nonstatutory Stock Option, as permitted by Rule 701 of the Securities Act of 1933, as amended, as the Administrator may determine in its sole discretion.
+
+      2.7    Term of Option. This Option may be exercised only within the term set out in the Notice of Stock Option Grant, and may be exercised during such term only in accordance with this Option Agreement and the Plan.
+
+      2.8    Tax Obligations.
+
+            (A)    Withholding Taxes. The Optionee shall make appropriate arrangements with the Administrator for the satisfaction of all applicable Federal, state, local, and foreign income taxes, employment tax, and any other taxes that are due as a result of the Option exercise. With the Administrator's consent, these arrangements may include withholding Shares that otherwise would be issued to the Optionee pursuant to the exercise of this Option. The Company may refuse to honor the exercise and refuse to deliver Shares if such withholding amounts are not delivered at the time of exercise.
+
+            (B)    Notice of Disqualifying Disposition of ISO Shares. If the Option is an ISO, and if the Optionee sells or otherwise disposes of any of the Shares acquired pursuant to the exercise of the ISO on or before the later of (i) the date two years after the Grant Date, or (ii) the date one year after the date of exercise, the Optionee shall immediately notify the Administrator in writing of such disposition. The Optionee may be subject to income tax withholding by the Company on the compensation income recognized by the Optionee.
+
+
+
+
+      2.9    Special Termination Period if the Optionee Subject to Section 16(b). If a sale within the applicable termination period set forth in Section 1 of Shares acquired upon the exercise of this Option would subject the Optionee to suit under Section 16(b) of the Exchange Act, this Option shall remain exercisable until the earliest to occur of (i) the tenth day following the date on which a sale of such shares by the Optionee would no longer be subject to such suit, (ii) the 190th day after the Optionee's Termination of Service, or (iii) the Expiration Date.
+
+      2.10    Special Termination Period if the Optionee Subject to Blackout Period. The Company has established an Insider Trading Policy (as such policy may be amended from time to time, the "Policy") relative to trading while in possession of material, undisclosed information. The Policy prohibits officers, directors, employees, and consultants of the Company and its subsidiaries from trading in securities of the Company during certain "Blackout Periods" as described in the Policy. If the last day of the termination period set forth in Section 1 is during such a Blackout Period, then this Option shall remain exercisable until 14 days after the first date that there is no longer in effect a Blackout Period applicable to the Optionee.
+
+      2.11    Change in Control. Upon a Change in Control before the Optionee's Termination of Service, the Option will be assumed or an equivalent option or right substituted by the successor corporation or a parent or subsidiary of the successor corporation. If the successor corporation refuses to assume or substitute for the Option, then immediately before and contingent on the consummation of the Change in Control, the Optionee will fully vest in and have the right to exercise the Option. In addition, if the Option becomes fully vested and exercisable in lieu of assumption or substitution in the event of a Change in Control, the Administrator will notify the Optionee in writing or electronically that the Option will be fully vested and exercisable for a period determined by the Administrator in its sole discretion, and the Option will terminate upon the expiration of such period.
+
+      2.12    Restrictions on Resale. The Optionee shall not sell any Shares at a time when Applicable Law, Company policies or an agreement between the Company and its underwriters prohibit a sale. This restriction shall apply as long as the Optionee is a Service Provider and for such period after the Optionee's Termination of Service as the Administrator may specify.
+
+      2.13    Lock-Up Agreement. In connection with any underwritten public offering of Shares made by the Company pursuant to a registration statement filed under the Securities Act, the Optionee shall not offer, sell, contract to sell, pledge, hypothecate, grant any option to purchase or make any short sale of, or otherwise dispose of any Shares (including but not limited to Shares subject to this Option) or any rights to acquire Shares of the Company for such period beginning on the date of filing of such registration statement with the Securities and Exchange Commission and ending at the time as may be established by the underwriters for such public offering; provided, however, that such period shall end not later than 180 days from the effective date of such registration statement. The foregoing limitation shall not apply to shares registered for sale in such public offering.
+
+      2.14    Entire Agreement; Governing Law. This Option Agreement and the Plan constitute the entire agreement of the parties with respect to the subject matter hereof and supersede in their entirety all prior undertakings and agreements of the Company and Optionee with respect to the subject matter hereof, and may not be modified adversely to the Optionee's interest except by means of a writing signed by the Company and Optionee. This Option Agreement is governed by the internal substantive laws, but not the choice of law rules, of Nevada.
+
+      2.15    No Guarantee of Continued Service. The vesting of the Option pursuant to the Vesting Schedule hereof is earned only by continuing as a Service Provider at the will of the Company (and not through the act of being hired, being granted an Option, or purchasing Shares hereunder). This Option Agreement, the transactions contemplated hereunder, and the Vesting Schedule set forth herein constitute neither an express nor an implied promise of continued engagement as a Service Provider for the vesting period, for any period, or at all, and shall not interfere with Optionee's right or the Company's right to terminate Optionee's relationship as a Service Provider at any time, with or without Cause.
+
+            By the Optionee's signature and the signature of the Company's representative below, the Optionee and the Company agree that this Option is granted under and governed by the terms and conditions of this Option Agreement and the Plan. The Optionee has reviewed this Option Agreement and the Plan in their entirety, has had an opportunity to obtain the advice of counsel before executing this Option Agreement and fully understands all provisions of this Option Agreement and the Plan. The Optionee hereby agrees to accept as binding, conclusive, and final all decisions or interpretations of the Administrator upon any questions relating to this Option Agreement and the Plan.
+
+
+
+The Optionee further agrees that the Company may deliver all documents relating to the Plan or this Option (including prospectuses required by the Securities and Exchange Commission), and all other documents that the Company is required to deliver to its security holders or the Optionee (including annual reports, proxy statements and financial statements), either by e-mail or by e-mail notice of a Web site location where those documents have been posted. The Optionee may at any time (i) revoke this consent to e-mail delivery of those documents; (ii) update the e-mail address for delivery of those documents; (iii) obtain at no charge a paper copy of those documents, in each case by writing the Company at 1130 West Pender Street, Suite 230, Vancouver, British Columbia, Canada V6E 4A4.  The Optionee may request an electronic copy of any of those documents by requesting a copy in writing from the Company. The Optionee understands that an e-mail account and appropriate hardware and software, including a computer or compatible cell phone and an Internet connection, will be required to access documents delivered by e-mail.
+
+
+
+
+
+             
+OPTIONEE:
+ 
+_________________________________
+Signature
+ 
+_Mark Goldberg____________________
+Print Name
+ 
+__90 Gold St, SF CA 94111___________
+Residence AddressWORDLOGIC CORPORATION
+ 
+By:_________________________________
+ 
+ 
+Its:_________________________________
+
+
+
+
+
+
+EXERCISE FORM
+
+WordLogic Corporation
+1130 West Pender Street, Suite 230
+Vancouver, British Columbia
+Canada V6E 4A4
+
+Ladies and Gentlemen:
+
+I hereby exercise the Option granted to me on _______________, 2012, by WORDLOGIC CORPORATION (the “Corporation”), subject to all the terms and provisions thereof and of the Equity Incentive Plan (the “Plan”), and notify you of my desire to purchase ___ incentive shares and ___ non-qualified shares of Common Stock of the Corporation at a price of $____ per share pursuant to the exercise of said Option.
+
+Payment Amount: $___________________
+   Date:                                                                                                                            Optionee Signature     Received by  WORDLOGIC CORPORATION on                                                                 
+Broker Information:
+
+ 
+Firm Name
+
+ 
+   Contact Person  
+
+ 
+   Broker Address  
+
+ 
+     City, State, Zip Code Phone Number  
+
+ 
+
+   Broker Account Number  
+
+ 
+   Electronic Transfer Number:   
+
+

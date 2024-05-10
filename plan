@@ -1,0 +1,7 @@
+1. Play around with size of chunk
+2. Middle chunks can get lost
+3. Different retreivers may be better for different types of data
+4. Steps:
+  1. Retreiver will give back a number of options
+  2. Ranker ranks those options (looks at those chunks and gets the right info for you)
+
