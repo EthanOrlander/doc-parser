@@ -11,9 +11,29 @@ STOCK OPTION AGREEMENT
 
       You have been granted an option to purchase Common Stock, subject to the terms and conditions of the Plan and this Option Agreement, as follows:
        
-Name of Optionee:Mark GoldbergTotal Number of Shares Granted: 100000Type of Option:o Nonstatutory Stock Option
-☑ Incentive Stock OptionExercise Price per Share:$ 0.0001Grant Date: June 1, 2020Vesting Commencement Date: Vesting Schedule:This option may be exercised, in whole or in part, in accordance with the following schedule:
-25% of the Shares subject to the option shall vest 12 months after the Vesting Commencement Date, and 1/48th of the Shares subject to the option shall vest each month thereafter, subject to the optionee continuing to be a Service Provider on such dates.Termination Period:This option may be exercised for three months after the optionee's Termination Date, except that if the Optionee's Termination of Service is for Cause, this option shall terminate on the Termination Date. Upon the death or Disability of the optionee, this option may be exercised for 12 months after the optionee's Termination Date. Special termination periods are set forth in Sections 2.3(B), 2.9, and 2.10 below. In no event may this option be exercised later than the Term of Award/Expiration Date provided below.Term of Award/Expiration Date: June 1, 2030 
+
+
+Name of Optionee:
+Mark Goldberg
+Total Number of Shares Granted:
+ 100000
+Type of Option:
+o Nonstatutory Stock Option
+☑ Incentive Stock Option
+Exercise Price per Share:
+$42.00
+Grant Date:
+ June 1, 2020
+Vesting Commencement Date:
+ 
+Vesting Schedule:
+This option may be exercised, in whole or in part, in accordance with the following schedule:
+25% of the Shares subject to the option shall vest 12 months after the Vesting Commencement Date, and 1/48th of the Shares subject to the option shall vest each month thereafter, subject to the optionee continuing to be a Service Provider on such dates.
+Termination Period:
+This option may be exercised for three months after the optionee's Termination Date, except that if the Optionee's Termination of Service is for Cause, this option shall terminate on the Termination Date. Upon the death or Disability of the optionee, this option may be exercised for 12 months after the optionee's Termination Date. Special termination periods are set forth in Sections 2.3(B), 2.9, and 2.10 below. In no event may this option be exercised later than the Term of Award/Expiration Date provided below.
+Term of Award/Expiration Date:
+ June 1, 2030
+ 
 2.    AGREEMENT
 
       2.1    Grant of Option. The Administrator hereby grants to the optionee named in the Notice of Stock Option Grant attached as Part I of this Option Agreement (the "Optionee") an option (the "Option") to purchase the number of Shares, as set forth in the Notice of Stock Option Grant, at the exercise price per Share set forth in the Notice of Stock Option Grant (the "Exercise Price"), subject to the terms and conditions of this Option Agreement and the Plan. This Option is intended to be a Nonstatutory Stock Option ("NSO") or an Incentive Stock Option ("ISO"), as provided in the Notice of Stock Option Grant.
@@ -93,7 +113,9 @@ The Optionee further agrees that the Company may deliver all documents relating 
 
 
              
-OPTIONEE:
+
+
+OPTIONEE:
  
 _________________________________
 Signature
@@ -102,12 +124,14 @@ _Mark Goldberg____________________
 Print Name
  
 __90 Gold St, SF CA 94111___________
-Residence AddressWORDLOGIC CORPORATION
+Residence Address
+WORDLOGIC CORPORATION
  
 By:_________________________________
  
  
-Its:_________________________________
+Its:_________________________________
+
 
 
 
@@ -126,26 +150,101 @@ Ladies and Gentlemen:
 I hereby exercise the Option granted to me on _______________, 2012, by WORDLOGIC CORPORATION (the “Corporation”), subject to all the terms and provisions thereof and of the Equity Incentive Plan (the “Plan”), and notify you of my desire to purchase ___ incentive shares and ___ non-qualified shares of Common Stock of the Corporation at a price of $____ per share pursuant to the exercise of said Option.
 
 Payment Amount: $___________________
-   Date:                                                                                                                            Optionee Signature     Received by  WORDLOGIC CORPORATION on                                                                 
+
+
+
+ 
+ 
+ 
+Date:                                                             
+ 
+                                                            
+ 
+ 
+Optionee Signature
+ 
+ 
+ 
+ 
+ 
+Received by  WORDLOGIC CORPORATION on
+ 
+ 
+ 
+ 
+ 
+                                                            
+
 Broker Information:
 
  
 Firm Name
 
  
-   Contact Person  
+
+
 
  
-   Broker Address  
+ 
+ 
+Contact Person
+ 
+ 
+
 
  
-     City, State, Zip Code Phone Number  
+
+
+
+ 
+ 
+ 
+Broker Address
+ 
+ 
+
 
  
 
-   Broker Account Number  
+
+
+
 
  
-   Electronic Transfer Number:   
+ 
+ 
+ 
+ 
+City, State, Zip Code
+ 
+Phone Number
+ 
+ 
+
+
+ 
+
+
+
+
+ 
+ 
+ 
+Broker Account Number
+ 
+ 
+
+
+ 
+
+
+
+ 
+ 
+ 
+Electronic Transfer Number:
+ 
+ 
+ 
 
 
